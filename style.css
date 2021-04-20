@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(223, 248, 252);
+}
+
+h1 {
+    background-color: rgb(134, 156, 255);
+}
+
+.paragraf-1 {
+    background-color: rgb(237, 146, 255);
+}
+
+h2 {
+    background-color: rgb(255, 226, 162);
+}
+
+.paragraf-2 {
+    background-color: rgb(154, 255, 238);
+}
+
+ol {
+    background-color: rgb(255, 250, 206);
+}
+
+.item-1 {
+    color: rgb(18, 68, 0);
+}
+.item-2 {
+    color: rgb(10, 117, 15);
+}
+.item-3 {
+    color: rgb(19, 139, 25);
+}
+.item-4 {
+    color: rgb(57, 180, 74);
+}
+.item-5 {
+    color: rgb(125, 211, 117);
+}
+.item-6 {
+    color: rgb(118, 240, 138);
+}
